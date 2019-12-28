@@ -1,4 +1,4 @@
-# google-play-store-ratings
+# Google Play Store Apps Analysis
 Built ML models to predict the ratings of the android apps using various parameters 
 <ul>
   <li>The project involved extensive data pre-processing and PCA Transformation was one of its part.</li>
